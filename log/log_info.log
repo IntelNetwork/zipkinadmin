@@ -1,0 +1,214 @@
+2020-02-14 12:36:16.916 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 12:36:18.154 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dd5fac95-c3ad-3d66-8ff3-6657e54f73aa
+2020-02-14 12:36:18.666 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 12:36:18.674 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@38b8b6c0
+2020-02-14 12:36:18.959 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 12:36:18.960 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2028 ms
+2020-02-14 12:36:19.084 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 13:14:09.396 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 13:14:11.032 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dd5fac95-c3ad-3d66-8ff3-6657e54f73aa
+2020-02-14 13:14:11.761 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 13:14:11.772 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@4b55ff0a
+2020-02-14 13:14:12.154 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 13:14:12.156 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2733 ms
+2020-02-14 13:14:52.561 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 13:34:14.661 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 13:34:16.444 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=0fcb33e5-9c61-34c2-b74c-02a721c980dd
+2020-02-14 13:34:16.887 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 13:39:32.663 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 13:39:34.105 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=0fcb33e5-9c61-34c2-b74c-02a721c980dd
+2020-02-14 13:39:34.447 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 13:41:33.757 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 13:41:35.571 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=2d20c309-a7e6-3836-870d-e578143cc2a9
+2020-02-14 13:41:36.693 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8862 (http)
+2020-02-14 13:41:36.709 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8862"]
+2020-02-14 13:41:36.710 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-14 13:41:36.710 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-14 13:41:36.713 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-02-14 13:41:36.713 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-14 13:41:36.713 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-14 13:41:36.717 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-02-14 13:41:36.929 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-14 13:41:36.930 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3149 ms
+2020-02-14 13:41:37.115 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-14 13:41:37.146 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 13:45:00.398 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 13:45:02.175 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=2d20c309-a7e6-3836-870d-e578143cc2a9
+2020-02-14 13:45:03.073 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8862 (http)
+2020-02-14 13:45:03.093 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8862"]
+2020-02-14 13:45:03.094 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-14 13:45:03.094 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-14 13:45:03.097 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-02-14 13:45:03.098 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-14 13:45:03.098 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-14 13:45:03.102 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-02-14 13:45:03.307 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-14 13:45:03.308 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2882 ms
+2020-02-14 13:45:38.375 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-14 13:45:38.421 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 14:41:19.498 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 14:41:21.267 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=5fb1a852-62e7-3e82-ba7f-6f9a17bcb14a
+2020-02-14 14:41:21.982 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 14:41:21.998 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@3ca14cf4
+2020-02-14 14:41:22.521 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 14:41:22.524 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3000 ms
+2020-02-14 14:41:22.713 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 15:03:05.212 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 15:03:06.897 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=5fb1a852-62e7-3e82-ba7f-6f9a17bcb14a
+2020-02-14 15:03:07.625 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 15:03:07.642 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@6fa02932
+2020-02-14 15:03:08.141 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 15:03:08.143 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2905 ms
+2020-02-14 15:03:08.312 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 15:19:25.738 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 15:19:27.498 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=5fb1a852-62e7-3e82-ba7f-6f9a17bcb14a
+2020-02-14 15:19:28.280 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 15:19:28.291 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@b6bccb4
+2020-02-14 15:19:28.819 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 15:19:28.821 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3056 ms
+2020-02-14 15:19:28.997 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 15:34:13.954 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 15:34:15.384 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=5fb1a852-62e7-3e82-ba7f-6f9a17bcb14a
+2020-02-14 15:34:15.928 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 15:34:15.937 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@625dfff3
+2020-02-14 15:34:16.366 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 15:34:16.367 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2393 ms
+2020-02-14 15:34:16.517 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 15:58:31.349 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 15:58:32.857 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=5fb1a852-62e7-3e82-ba7f-6f9a17bcb14a
+2020-02-14 15:58:33.439 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 15:58:33.449 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@79a04e5f
+2020-02-14 15:58:33.908 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 15:58:33.910 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2542 ms
+2020-02-14 15:58:34.063 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 17:40:41.829 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 17:40:42.928 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=8d995d70-0a29-38ae-9815-e485da15008d
+2020-02-14 17:40:43.146 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$e247a402] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-14 17:40:43.478 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8862 (http)
+2020-02-14 17:40:43.568 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-14 17:40:43.568 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+2020-02-14 17:40:43.575 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-02-14 17:40:43.575 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-14 17:40:43.576 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-14 17:40:43.579 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-02-14 17:40:43.747 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-14 17:40:43.747 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1904 ms
+2020-02-14 17:40:44.433 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 17:40:44.443 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@2fd72332
+2020-02-14 17:40:45.296 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 17:40:45.510 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-14 17:40:45.810 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.verboseExceptions: false (default)
+2020-02-14 17:40:45.811 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.verboseSocketExceptions: false (default)
+2020-02-14 17:40:45.812 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.verboseResponses: false (default)
+2020-02-14 17:40:45.814 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.useEpoll: false (default)
+2020-02-14 17:40:49.857 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.useOpenSsl: true (default)
+2020-02-14 17:40:49.858 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.maxNumConnections: 2147483647 (default)
+2020-02-14 17:40:49.859 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.numCommonWorkers: 16 (default)
+2020-02-14 17:40:49.859 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.numCommonBlockingTaskThreads: 200 (default)
+2020-02-14 17:40:49.860 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultMaxRequestLength: 10485760 (default)
+2020-02-14 17:40:49.861 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultMaxResponseLength: 10485760 (default)
+2020-02-14 17:40:49.861 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultRequestTimeoutMillis: 10000 (default)
+2020-02-14 17:40:49.861 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultResponseTimeoutMillis: 15000 (default)
+2020-02-14 17:40:49.862 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultConnectTimeoutMillis: 3200 (default)
+2020-02-14 17:40:49.862 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultServerIdleTimeoutMillis: 15000 (default)
+2020-02-14 17:40:49.862 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultClientIdleTimeoutMillis: 10000 (default)
+2020-02-14 17:40:49.863 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp2InitialConnectionWindowSize: 1048576 (default)
+2020-02-14 17:40:49.863 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp2InitialStreamWindowSize: 1048576 (default)
+2020-02-14 17:40:49.863 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp2MaxFrameSize: 16384 (default)
+2020-02-14 17:40:49.863 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp2MaxStreamsPerConnection: 2147483647 (default)
+2020-02-14 17:40:49.864 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp2MaxHeaderListSize: 8192 (default)
+2020-02-14 17:40:49.864 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp1MaxInitialLineLength: 4096 (default)
+2020-02-14 17:40:49.864 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp1MaxHeaderSize: 8192 (default)
+2020-02-14 17:40:49.864 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultHttp1MaxChunkSize: 8192 (default)
+2020-02-14 17:40:49.864 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultUseHttp2Preface: true (default)
+2020-02-14 17:40:49.865 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultUseHttp1Pipelining: false (default)
+2020-02-14 17:40:49.865 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultBackoffSpec: exponential=200:10000,jitter=0.2 (default)
+2020-02-14 17:40:49.865 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.defaultMaxTotalAttempts: 10 (default)
+2020-02-14 17:40:49.865 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.routeCache: maximumSize=4096 (default)
+2020-02-14 17:40:49.865 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.compositeServiceCache: maximumSize=256 (default)
+2020-02-14 17:40:49.865 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.parsedPathCache: maximumSize=4096 (default)
+2020-02-14 17:40:49.866 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.headerValueCache: maximumSize=4096 (default)
+2020-02-14 17:40:49.866 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.cachedHeaders: :authority,:scheme,:method,accept-encoding,content-type (default)
+2020-02-14 17:40:49.869 [main] INFO  com.linecorp.armeria.common.Flags - com.linecorp.armeria.annotatedServiceExceptionVerbosity: unhandled (default)
+2020-02-14 17:40:49.871 [main] INFO  com.linecorp.armeria.common.Flags - /dev/epoll not available: java.lang.IllegalStateException: Only supported on Linux
+2020-02-14 17:40:49.871 [main] INFO  com.linecorp.armeria.common.Flags - Using OpenSSL: BoringSSL, 0x1010007f
+2020-02-14 17:40:50.131 [main] INFO  com.linecorp.armeria.common.util.SystemInfo - Hostname: desktop-5duhfcd (from 'hostname' command)
+2020-02-14 17:40:50.375 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-14 17:40:50.834 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-14 17:40:50.854 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-14 17:52:52.105 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - No active profile set, falling back to default profiles: default
+2020-02-14 17:52:53.248 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=a847f80c-d293-343b-952b-271b602dd36d
+2020-02-14 17:52:53.522 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$e1eceb01] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-14 17:52:54.011 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 17:52:54.036 [main] INFO  com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@53abfc07
+2020-02-14 17:52:54.723 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-02-14 17:52:54.724 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2608 ms
+2020-02-14 17:52:55.948 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-02-14 17:52:56.243 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-14 17:52:57.278 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-02-14 17:52:57.377 [main] INFO  o.s.cloud.netflix.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2020-02-14 17:52:57.420 [main] INFO  com.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2020-02-14 17:52:57.772 [main] INFO  c.n.discovery.provider.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2020-02-14 17:52:57.773 [main] INFO  c.n.discovery.provider.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2020-02-14 17:52:57.889 [main] INFO  c.n.discovery.provider.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2020-02-14 17:52:57.889 [main] INFO  c.n.discovery.provider.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2020-02-14 17:52:58.103 [main] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-02-14 17:52:58.256 [main] INFO  com.netflix.discovery.DiscoveryClient - Disable delta property : false
+2020-02-14 17:52:58.256 [main] INFO  com.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2020-02-14 17:52:58.257 [main] INFO  com.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2020-02-14 17:52:58.257 [main] INFO  com.netflix.discovery.DiscoveryClient - Application is null : false
+2020-02-14 17:52:58.257 [main] INFO  com.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2020-02-14 17:52:58.257 [main] INFO  com.netflix.discovery.DiscoveryClient - Application version is -1: true
+2020-02-14 17:52:58.257 [main] INFO  com.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2020-02-14 17:52:58.598 [main] INFO  com.netflix.discovery.DiscoveryClient - The response status is 200
+2020-02-14 17:52:58.600 [main] INFO  com.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2020-02-14 17:52:58.602 [main] INFO  com.netflix.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-02-14 17:52:58.606 [main] INFO  com.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1581673978605 with initial instances count: 0
+2020-02-14 17:52:58.612 [main] INFO  o.s.c.n.e.serviceregistry.EurekaServiceRegistry - Registering application SMARTWORK-ZIPKIN-SERVER with eureka with status UP
+2020-02-14 17:52:58.613 [main] INFO  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1581673978613, current=UP, previous=STARTING]
+2020-02-14 17:52:58.615 [DiscoveryClient-InstanceInfoReplicator-0] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_SMARTWORK-ZIPKIN-SERVER/DESKTOP-5DUHFCD:smartwork-zipkin-server:8862: registering service...
+2020-02-14 17:52:58.658 [main] INFO  org.xnio - XNIO version 3.7.0.Final
+2020-02-14 17:52:58.676 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.7.0.Final
+2020-02-14 17:52:58.712 [main] INFO  org.jboss.threads - JBoss Threads version 2.3.2.Final
+2020-02-14 17:52:58.762 [DiscoveryClient-InstanceInfoReplicator-0] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_SMARTWORK-ZIPKIN-SERVER/DESKTOP-5DUHFCD:smartwork-zipkin-server:8862 - registration status: 204
+2020-02-14 17:52:58.768 [main] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 8862 (http) with context path ''
+2020-02-14 17:52:58.768 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8862
+2020-02-14 17:52:58.770 [main] INFO  com.smartwork.SmartworkZipkinServerApplication - Started SmartworkZipkinServerApplication in 8.085 seconds (JVM running for 9.083)
+2020-02-14 17:52:59.476 [RMI TCP Connection(5)-192.168.1.5] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-14 17:52:59.477 [RMI TCP Connection(5)-192.168.1.5] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-14 17:52:59.500 [RMI TCP Connection(5)-192.168.1.5] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 23 ms
+2020-02-14 17:53:28.603 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Disable delta property : false
+2020-02-14 17:53:28.605 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2020-02-14 17:53:28.606 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2020-02-14 17:53:28.607 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Application is null : false
+2020-02-14 17:53:28.607 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2020-02-14 17:53:28.608 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Application version is -1: false
+2020-02-14 17:53:28.608 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2020-02-14 17:53:28.689 [DiscoveryClient-CacheRefreshExecutor-0] INFO  com.netflix.discovery.DiscoveryClient - The response status is 200
+2020-02-14 17:57:58.263 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-02-14 18:02:58.266 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-02-14 18:07:58.270 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
